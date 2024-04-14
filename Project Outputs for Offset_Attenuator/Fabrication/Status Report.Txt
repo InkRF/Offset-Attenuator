@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [Offset_Attenuator.PcbDoc]
+   Generated File[Offset_Attenuator.GTO]
+   Generated File[Offset_Attenuator.GTP]
+   Generated File[Offset_Attenuator.GTS]
+   Generated File[Offset_Attenuator.GTL]
+   Generated File[Offset_Attenuator.GBL]
+   Generated File[Offset_Attenuator.GBS]
+   Generated File[Offset_Attenuator.GBP]
+   Generated File[Offset_Attenuator.GBO]
+   Generated File[Offset_Attenuator.GM29]
+   Generated File[Offset_Attenuator.RUL]
+   Generated File[Offset_Attenuator.EXTREP]
+   Generated File[Offset_Attenuator.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 14:46:59 On 01/22/2024

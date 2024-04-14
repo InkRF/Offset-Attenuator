@@ -1,0 +1,31 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 8 1.323 1.112 90 N BT1 BH9VPC ;0=2,1=0.0217
+PRP Automotive 'No'
+PRP Category 'Batt'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.memoryprotectiondevices.com/datasheets/BH9VPC-datasheet.pdf'
+PRP Conn_Orientation 'Vertical'
+PRP Contact_Material 'Nickel'
+PRP Device_Class_L1 'Connectors'
+PRP Device_Class_L2 'unset'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'BATTERY HOLDER 9V PC PIN'
+PRP Height '21.12mm'
+PRP Is_Female 'yes'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Memory Protection Devices'
+PRP Manufacturer_Part_Number 'BH9VPC'
+PRP Number_Of_Contacts '2'
+PRP Octopart 'https://octopart.com/bh9vpc-memory+protection+devices-22788154'
+PRP Package '0'
+PRP ROHS 'TRUE'
+PRP Voltage_Rating '9V'
+TOP 0 1.07 0.13 90 N 14 10 1
+TOP 1 1.57 0.13 90 N 11 1 2
+#

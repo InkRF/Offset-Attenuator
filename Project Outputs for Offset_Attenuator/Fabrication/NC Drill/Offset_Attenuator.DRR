@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Offset_Attenuator.PcbDoc   01/22/2024  14:46:59
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : M1 Top to M4 Bottom
+ASCII Plated RoundHoles File : Offset_Attenuator-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Offset_Attenuator-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Offset_Attenuator-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             34        PTH        11.68inch (296.63mm)
+T2      40mil (1.016mm)                                           Round             2         PTH        0.50inch (12.70mm)
+T3      46mil (1.17mm)                                            Round             2         PTH        1.37inch (34.79mm)
+T4      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T5      53mil (1.35mm)                                            Round             3         PTH        0.20inch (5.00mm)
+T6      53mil (1.35mm)                                            Slot              2         PTH        0.92inch (23.46mm)
+T7      83mil (2.11mm)                                            Round             8         PTH        2.93inch (74.39mm)
+T8      144mil (3.658mm)                                          Round             3         PTH        2.68inch (67.97mm)
+T9      35mil (0.9mm)                                             Round             2         NPTH       0.20inch (5.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              58
+
+Total Processing Time (hh:mm:ss) : 00:00:00
