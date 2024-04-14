@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=[Child Sheet].SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[Child Sheet].SchDoc|FileName=[Top Sheet].SchDoc|SheetNumber=1

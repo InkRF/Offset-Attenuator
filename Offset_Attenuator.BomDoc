@@ -1,0 +1,17 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\Users\brakorak\Desktop\GVSU Altium Project Template\[Project Name] b.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=07.01.2022|TIME=16:35:45|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Designator=185!Description=243!Value=67!Manufacturer=153!Manufacturer P/N=114!Vendor=137!Vendor P/N=154!Price=60!Quantity=81
+|RECORD=VisibleOrderOptions2|BASEVIEW=Designator=185!Description=243!Value=67!Manufacturer=153!Manufacturer P/N=114!Vendor=137!Vendor P/N=154!Price=60!Quantity=81|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122!Quantity@A2F500M3G=-1!Price@A2F500M3G=-1
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name!Quantity@A2F500M3G=A2F500M3G - Qty!Price@A2F500M3G=A2F500M3G - Price
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Standard Components.IntLib\Cp0402|DESIGNITEMID=Cp0402|ITEMSOURCE=Standard Components.IntLib|STATUS=Unknown|DESCRIPTION=0402 Polarized Chip Capacitor - Standard|USERCOMMENTS=Cp0402|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="0402 Polarized Chip Capacitor - Standard",100pF,Cp0402|COMPONENTPARAMETERS=Comment=Cp0402,"Component Kind=Standard",ComponentLink1Description=,ComponentLink1URL=,"Description=0402 Polarized Chip Capacitor - Standard",Footprint=0402p,"Ibis Model=","Library Name=Standard Components.IntLib","Library Reference=Cp0402",Manufacturer=,"Manufacturer P/N=",PCB3D=,"Pin Info=",Price=,Series=,"Signal Integrity=C0402",Simulation=CAP,Tolerance=,Value=100pF,Vendor=,"Vendor P/N=",VoltageRating=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
